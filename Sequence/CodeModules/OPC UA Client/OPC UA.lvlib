@@ -4,9 +4,10 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="Ignition.lvclass" Type="LVClass" URL="../Ignition/Ignition.lvclass"/>
+	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="OPC UA.lvclass" Type="LVClass" URL="../OPC UA/OPC UA.lvclass"/>
-	<Item Name="PostUUT.lvclass" Type="LVClass" URL="../PostUUT/PostUUT.lvclass"/>
 	<Item Name="PreUUT.lvclass" Type="LVClass" URL="../PreUUT/PreUUT.lvclass"/>
 	<Item Name="TestExec.lvclass" Type="LVClass" URL="../TestExec/TestExec.lvclass"/>
+	<Item Name="PostUUT.lvclass" Type="LVClass" URL="../PostUUT/PostUUT.lvclass"/>
+	<Item Name="Ignition.lvclass" Type="LVClass" URL="../Ignition/Ignition.lvclass"/>
 </Library>
