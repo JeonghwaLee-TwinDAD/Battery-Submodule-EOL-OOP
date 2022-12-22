@@ -25,6 +25,7 @@
 			<Item Name="Controls" Type="Folder">
 				<Item Name="INI DataType.ctl" Type="VI" URL="../../Sequence/CodeModules/Config Framework/Controls/INI DataType.ctl"/>
 				<Item Name="KeyValue.ctl" Type="VI" URL="../../Sequence/CodeModules/Config Framework/Controls/KeyValue.ctl"/>
+				<Item Name="Section List.ctl" Type="VI" URL="../../Sequence/CodeModules/Config Framework/Controls/Section List.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="TestStand Interface" Type="Folder">
@@ -34,7 +35,6 @@
 			<Item Name="SubVIs" Type="Folder">
 				<Item Name="Convert Resistance to Temperature.vi" Type="VI" URL="../../Sequence/CodeModules/TestStand Interface/SubVIs/Convert Resistance to Temperature.vi"/>
 				<Item Name="Relay Tests.vi" Type="VI" URL="../../Sequence/CodeModules/TestStand Interface/SubVIs/Relay Tests.vi"/>
-				<Item Name="Select OPC UA Class.vi" Type="VI" URL="../../Sequence/CodeModules/TestStand Interface/SubVIs/Select OPC UA Class.vi"/>
 			</Item>
 		</Item>
 		<Item Name="MAL.lvlib" Type="Library" URL="../../Sequence/CodeModules/Measurment Abstration/MAL.lvlib"/>
