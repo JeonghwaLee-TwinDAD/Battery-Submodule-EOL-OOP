@@ -56,12 +56,6 @@
 				<Item Name="HIOKI SW100X Series.lvlib" Type="Library" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/instr.lib/HIOKI SW100X Series/HIOKI SW100X Series.lvlib"/>
 				<Item Name="Agilent N6700 Series.lvlib" Type="Library" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/instr.lib/Agilent N6700/Agilent N6700 Series.lvlib"/>
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/vi.lib/Analysis/NI_AALBase.lvlib"/>
-				<Item Name="AG34980A Initiate.vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/instr.lib/Agilent 34980a/AG34980A Initiate.vi"/>
-				<Item Name="AG34980A Configure Scan.vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/instr.lib/Agilent 34980a/AG34980A Configure Scan.vi"/>
-				<Item Name="AG34980A Configure Thermocouple.vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/instr.lib/Agilent 34980a/AG34980A Configure Thermocouple.vi"/>
-				<Item Name="AG34980A Configure Data Format.vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/instr.lib/Agilent 34980a/AG34980A Configure Data Format.vi"/>
-				<Item Name="AG34980A Configure Trigger.vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/instr.lib/Agilent 34980a/AG34980A Configure Trigger.vi"/>
-				<Item Name="AG34980A Reading Count.vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/instr.lib/Agilent 34980a/AG34980A Reading Count.vi"/>
 				<Item Name="Random Number (Range) DBL.vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/vi.lib/numeric/Random Number (Range) DBL.vi"/>
 				<Item Name="niSwitch Close.vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/instr.lib/niSwitch/niSwitch.llb/niSwitch Close.vi"/>
 				<Item Name="niSwitch Topologies.ctl" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/instr.lib/niSwitch/niSwitch.llb/niSwitch Topologies.ctl"/>
@@ -81,10 +75,10 @@
 				<Item Name="niDMM Current Source.ctl" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/instr.lib/niDMM/nidmm.llb/niDMM Current Source.ctl"/>
 				<Item Name="niDMM Configure Current Source.vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/instr.lib/niDMM/nidmm.llb/niDMM Configure Current Source.vi"/>
 				<Item Name="DAQmx Fill In Error Info.vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/vi.lib/DAQmx/miscellaneous.llb/DAQmx Fill In Error Info.vi"/>
+				<Item Name="DAQmx Create Channel (AI-Voltage-Basic).vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/vi.lib/DAQmx/create/channels.llb/DAQmx Create Channel (AI-Voltage-Basic).vi"/>
 				<Item Name="DAQmx Clear Task.vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/vi.lib/DAQmx/configure/task.llb/DAQmx Clear Task.vi"/>
 				<Item Name="DAQmx Read (Analog 1D DBL 1Chan NSamp).vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/vi.lib/DAQmx/read.llb/DAQmx Read (Analog 1D DBL 1Chan NSamp).vi"/>
 				<Item Name="DAQmx Start Task.vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/vi.lib/DAQmx/configure/task.llb/DAQmx Start Task.vi"/>
-				<Item Name="DAQmx Create Channel (AI-Voltage-Basic).vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/vi.lib/DAQmx/create/channels.llb/DAQmx Create Channel (AI-Voltage-Basic).vi"/>
 				<Item Name="DAQmx Write (Digital 1D Bool 1Chan 1Samp).vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/vi.lib/DAQmx/write.llb/DAQmx Write (Digital 1D Bool 1Chan 1Samp).vi"/>
 				<Item Name="DAQmx Create Channel (DO-Digital Output).vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/vi.lib/DAQmx/create/channels.llb/DAQmx Create Channel (DO-Digital Output).vi"/>
 				<Item Name="N5700 Close.vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/instr.lib/Agilent N5700/Source files/N5700 Close.vi"/>
@@ -110,11 +104,17 @@
 				<Item Name="Chr19020 DC High Limit.vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/instr.lib/Chr19020/Chr19020.llb/Chr19020 DC High Limit.vi"/>
 				<Item Name="Chr19020 DC Test Time.vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/instr.lib/Chr19020/Chr19020.llb/Chr19020 DC Test Time.vi"/>
 				<Item Name="AG34980A Close.vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/instr.lib/Agilent 34980a/AG34980A Close.vi"/>
+				<Item Name="AG34980A Initiate.vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/instr.lib/Agilent 34980a/AG34980A Initiate.vi"/>
+				<Item Name="AG34980A Reading Count.vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/instr.lib/Agilent 34980a/AG34980A Reading Count.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/vi.lib/Utility/error.llb/whitespace.ctl"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="AG34980A List to Array.vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/instr.lib/Agilent 34980a/AG34980A List to Array.vi"/>
 				<Item Name="AG34980A Fetch.vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/instr.lib/Agilent 34980a/AG34980A Fetch.vi"/>
 				<Item Name="AG34980A Initialize.vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/instr.lib/Agilent 34980a/AG34980A Initialize.vi"/>
+				<Item Name="AG34980A Configure Thermocouple.vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/instr.lib/Agilent 34980a/AG34980A Configure Thermocouple.vi"/>
+				<Item Name="AG34980A Configure Scan.vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/instr.lib/Agilent 34980a/AG34980A Configure Scan.vi"/>
+				<Item Name="AG34980A Configure Data Format.vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/instr.lib/Agilent 34980a/AG34980A Configure Data Format.vi"/>
+				<Item Name="AG34980A Configure Trigger.vi" Type="VI" URL="../../../PPLs/Hardware Abstraction.lvlibp/1abvi3w/instr.lib/Agilent 34980a/AG34980A Configure Trigger.vi"/>
 			</Item>
 		</Item>
 		<Item Name="OPC UA.lvlib" Type="Library" URL="../../Sequence/OPC UA Client/OPC UA.lvlib"/>
