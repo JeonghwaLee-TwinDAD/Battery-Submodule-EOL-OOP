@@ -14,20 +14,6 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="PPLs" Type="Folder">
-			<Item Name="DDU.lvlibp" Type="LVLibp" URL="../../../PPLs/DDU.lvlibp">
-				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="../../../PPLs/DDU.lvlibp/1abvi3w/vi.lib/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
-				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="../../../PPLs/DDU.lvlibp/1abvi3w/vi.lib/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
-				<Item Name="Clear Errors.vi" Type="VI" URL="../../../PPLs/DDU.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Clear Errors.vi"/>
-				<Item Name="DDU.lvclass" Type="LVClass" URL="../../../PPLs/DDU.lvlibp/DDU.lvclass"/>
-				<Item Name="Delimited String to 1D String Array.vi" Type="VI" URL="../../../PPLs/DDU.lvlibp/1abvi3w/vi.lib/AdvancedString/Delimited String to 1D String Array.vi"/>
-				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="../../../PPLs/DDU.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Error Cluster From Error Code.vi"/>
-				<Item Name="Get LV Class Default Value.vi" Type="VI" URL="../../../PPLs/DDU.lvlibp/1abvi3w/vi.lib/Utility/LVClass/Get LV Class Default Value.vi"/>
-				<Item Name="NI_FileType.lvlib" Type="Library" URL="../../../PPLs/DDU.lvlibp/1abvi3w/vi.lib/Utility/lvfile.llb/NI_FileType.lvlib"/>
-				<Item Name="NI_LVConfig.lvlib" Type="Library" URL="../../../PPLs/DDU.lvlibp/1abvi3w/vi.lib/Utility/config.llb/NI_LVConfig.lvlib"/>
-				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="../../../PPLs/DDU.lvlibp/1abvi3w/vi.lib/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
-				<Item Name="Trim Whitespace.vi" Type="VI" URL="../../../PPLs/DDU.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Trim Whitespace.vi"/>
-				<Item Name="whitespace.ctl" Type="VI" URL="../../../PPLs/DDU.lvlibp/1abvi3w/vi.lib/Utility/error.llb/whitespace.ctl"/>
-			</Item>
 			<Item Name="Hardware Abstraction.lvlibp" Type="LVLibp" URL="../../../PPLs/Hardware Abstraction.lvlibp">
 				<Item Name="agn34980.lvclass" Type="LVClass" URL="../../../PPLs/Hardware Abstraction.lvlibp/Concrete/agn34980/agn34980.lvclass"/>
 				<Item Name="APS7050.lvclass" Type="LVClass" URL="../../../PPLs/Hardware Abstraction.lvlibp/Concrete/APS7050/APS7050.lvclass"/>
@@ -208,6 +194,12 @@
 				<Item Name="imagedata.ctl" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/imagedata.ctl"/>
 				<Item Name="Check Path.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Check Path.vi"/>
 				<Item Name="Directory of Top Level VI.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Directory of Top Level VI.vi"/>
+				<Item Name="NI_LVConfig.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/config.llb/NI_LVConfig.lvlib"/>
+				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
+				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
+				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
+				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
+				<Item Name="Delimited String to 1D String Array.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/Delimited String to 1D String Array.vi"/>
 			</Item>
 			<Item Name="Chr19020.dll" Type="Document" URL="../../../PPLs/Chr19020.dll"/>
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
